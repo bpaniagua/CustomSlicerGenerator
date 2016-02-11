@@ -39,7 +39,7 @@ class CustomSlicerGenerator(ScriptedLoadableModule):
 
     This file was originally developed by Jean-Christophe Fillion-Robin, Kitware Inc.
     and Steve Pieper, Isomics, Inc. and was partially funded by NIH grant 3P41RR013218-12S1.
-""" # replace with organization, grant and thanks. lalala
+""" # replace with organization, grant and thanks. 
 
 #
 # CustomSlicerGeneratorWidget
